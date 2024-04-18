@@ -1,0 +1,1 @@
+## Welcome to the FIFA21 Data Cleaning Project! This project aims to identify and rectify any inconsistencies, errors, or missing values within the FIFA21 dataset. By conducting thorough exploratory data analysis and implementing data cleaning techniques, the goal is to ensure the dataset is accurate, reliable, and ready for further analysis or modeling.

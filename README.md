@@ -1,0 +1,1 @@
+## This repository contains a collection of projects focused on exploratory data analysis, data cleaning, and possibly feature engineering. Each project is contained within its own folder and is accompanied by relevant datasets, code, and documentation.
